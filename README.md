@@ -1,1 +1,2 @@
-# Rider_shelter_location_recommendation
+# 제3회 강서구 빅데이터 분석 아이디어 공모전
+## 상권 분석을 통한 배달 플랫폼 노동자 쉼터 위치 제안  
